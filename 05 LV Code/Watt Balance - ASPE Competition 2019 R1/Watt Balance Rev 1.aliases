@@ -1,0 +1,9 @@
+[ASPE RIO]
+ASPE RIO = "172.22.11.2"
+
+[JohnsRIO]
+JohnsRIO = "172.22.11.2"
+
+[My Computer]
+My Computer = "172.22.11.1"
+

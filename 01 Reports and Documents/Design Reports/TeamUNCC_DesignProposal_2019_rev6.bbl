@@ -1,0 +1,45 @@
+\begin{thebibliography}{1}
+
+\bibitem{smith2000}
+S.~T. Smith, {\em Flexures: Elements of Elastic Mechanisms}.
+\newblock CRC Press, 2000.
+
+\bibitem{chao2015}
+L.~S. Chao, S.~Schlamminger, D.~B. Newell, J.~R. Pratt, F.~Seifert, X.~Zhang,
+  G.~Sineriz, M.~Liu, and D.~Haddad, ``A lego watt balance: An apparatus to
+  determine a mass based on the new si,'' {\em American Journal of Physics},
+  vol.~83, no.~11, p.~913–922, 2015.
+
+\bibitem{hardwaremanual}
+L.~Aguirre, {\em 2019 Student Challenge Hardware}.
+\newblock ASPE, Aug. 2019.
+
+\bibitem{gum2008}
+I.~O. for Standardization, {\em Guide to the expression of uncertainty in
+  measurement (GUM)}.
+\newblock Geneva: International Organization for Standardization, 2008.
+
+\bibitem{ngs}
+{The National Geodetic Survey Information Center}, ``Surface gravity
+  prediction,'' 2018.
+\newblock [Online; accessed 22-September-2019].
+
+\bibitem{mapcoords}
+mapcoordinates.net, ``Find google maps coordinates-fast and easy!.''
+\newblock [Online; accessed 22-September-2019].
+
+\bibitem{ampmanual}
+S.~T. Smith, {\em Voice Coil Amplifier}.
+\newblock ASPE, Aug. 2019.
+
+\bibitem{harmsen2010}
+W.~Harmsen, ``The excessive humidity effect on capacitive distance sensors for
+  precision positioning,'' Master's thesis, Delft University of Technology, 6
+  2010.
+
+\bibitem{ndmagnets}
+e~Magnets~UK, ``Temperature ratings, temperature effects on neodymium iron
+  boron, ndfeb, magnets.''
+\newblock [Online; accessed 22-September-2019].
+
+\end{thebibliography}
